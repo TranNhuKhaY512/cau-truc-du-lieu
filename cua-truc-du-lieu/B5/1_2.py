@@ -1,0 +1,10 @@
+from collections import deque 
+myStack = deque()
+myStack.append('data science') 
+myStack.append('data structures and algorithms')
+myStack.append('learning data analytics')
+myStack.append('big data')
+print(myStack)
+print(myStack.pop()) 
+print(myStack.pop())
+print(myStack)

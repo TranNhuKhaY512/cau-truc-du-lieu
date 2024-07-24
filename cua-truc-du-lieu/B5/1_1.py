@@ -1,0 +1,10 @@
+myStack= []
+myStack.append('data science') 
+myStack.append('data analytics')
+myStack.append('data structures and algorithms')
+myStack.append('big data')
+myStack.append('learning data analytics')
+print(myStack)
+print(myStack.pop()) 
+print(myStack.pop())
+print(myStack)
